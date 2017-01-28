@@ -1,0 +1,26 @@
+1.What are the major sources of Big Data?
+Ans: Enterprise data,Image/audio/video, log data,sensor data,public data,social media,transaction,
+
+2. What is the criteria to decide whether the data is Big Data?
+Ans: If the data exceeds the processing capacity of conventional database systems then the data is classified as Big data
+
+3. Give three examples for unstructured data?
+ans: video, audio, GPS Tracking
+
+4. What is streaming data?
+Ans: Data that continuously arrives into the system and needs to be processed before the next interval or its expiry is known as streaming data.
+
+5. What is the difference between Batch and Streaming data?
+Ans: 
+
+-Streaming Data is Immediate processing of data  after after the event occurs. 
+Batch data processes after collection and storage of data at a scheduled time when sufficient amount of data has been accumulated 
+
+- Streaming data is real-time whereas Batch data happens batchwise
+
+- Streaming data is suitable for Performance and Volume Challenges whereas Batch data is for Volume Challenges.
+
+- Streaming data Use Cases : Operations &Analytics 
+  Batch Use Cases :Analytics Analytics
+
+
